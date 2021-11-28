@@ -3,7 +3,7 @@
 
 **Thammarach/Thammarach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+⚡ What I'm interested in : 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+## 📊 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thammarach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
