@@ -14,6 +14,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+https://colab.research.google.com/drive/1ErhLJ5N3PvVQnYUr9b_Ye5LmaDEijR2R#scrollTo=vcKvAmCwCTOM
+
 
 ## 📊 Stats
 
