@@ -1,25 +1,24 @@
-### Hi there 👋, I am Thammarach
+## Hi there 👋, I am Thammarach
+
+You can call me “Dan”. I am a 3rd electronic and telecommunication Engineering student, Faculty of Engineering, KMUTT . I am a person who likes to learn new things all the time. To keep up with the technology of the future and to be ready to get out of my comfort zone because I believe that outside experience will give me better skills.
+
+⚡ What I'm interested in :
+
+ - :milky_way: Fiber Optic Cabling
+ - :desktop_computer: Optical Communication
+ - :ear_of_rice: Ai and IoT for Smart farm
+ - :brain: Machine Learning
+ - :eye: Computer Vision
+ - :iphone: Chatbot
 
 
-**Thammarach/Thammarach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-⚡ What I'm interested in : 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## :e-mail: Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-thammarach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thammarach/)](https://www.linkedin.com/in/thammarach/)
 [![Gmail Badge](https://img.shields.io/badge/-thammarach.dan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thammarach.dan@gmail.com)](mailto:thammarach.dan@gmail.com)
 
 
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thammarach&layout=compact&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
