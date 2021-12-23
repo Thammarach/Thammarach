@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Thammarach
 
-You can call me “Dan”. I am a 3rd electronic and telecommunication Engineering student, Faculty of Engineering, KMUTT . I am a person who likes to learn new things all the time. To keep up with the technology of the future and to be ready to get out of my comfort zone because I believe that outside experience will give me better skills.
+You can call me “Dan”. I am a 3rd year electronic and telecommunication Engineering student, Faculty of Engineering, KMUTT . I am a person who likes to learn new things all the time. To keep up with the technology of the future and to be ready to get out of my comfort zone because I believe that outside experience will give me better skills.
 
 ⚡ What I'm interested in :
 
