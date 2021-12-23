@@ -4,12 +4,12 @@ You can call me “Dan”. I am a 3rd electronic and telecommunication Engineeri
 
 ⚡ What I'm interested in :
 
- - :milky_way: Fiber Optic Cabling
- - :desktop_computer: Optical Communication
+ - :globe_with_meridians: Fiber Optic Cabling
+ - :milky_way: Optical Communication
  - :ear_of_rice: Ai and IoT for Smart farm
  - :brain: Machine Learning
  - :eye: Computer Vision
- - :iphone: Chatbot
+ - :desktop_computer: Chatbot:electron:
 
 
 ## :e-mail: Connect with me
