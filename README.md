@@ -9,7 +9,7 @@ You can call me “Dan”. I am a 3rd year electronic and telecommunication Engi
  - :ear_of_rice: Ai and IoT for Smart farm
  - :brain: Machine Learning
  - :eye: Computer Vision
- - :desktop_computer: Chatbot:electron:
+ - :desktop_computer: Chatbot
 
 
 ## :e-mail: Connect with me
