@@ -24,5 +24,8 @@ You can call me “Dan”. I am a 3rd year electronic and telecommunication Engi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thammarach&layout=compact&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thammarach&langs_count=5&theme=tokyonight)]()
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thammarach&theme=nightowl&show_icons=true)
 
