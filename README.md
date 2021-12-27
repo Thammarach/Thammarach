@@ -20,10 +20,10 @@ You can call me “Dan”. I am a 3rd year electronic and telecommunication Engi
 
 ## 📊 GitHub Stats
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thammarach&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thammarach&langs_count=5&theme=nightowl&show_icons=true)]()
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thammarach&layout=compact&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thammarach&layout=compact&theme=nightowl&show_icons=true)]()
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thammarach&theme=nightowl&show_icons=true)
