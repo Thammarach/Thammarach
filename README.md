@@ -4,8 +4,8 @@ You can call me “Dan”. I am a 3rd year Electronic and Telecommunication Engi
 
 ⚡ What I'm interested in :
 
- - :globe_with_meridians: Fiber Optic Cabling
- - :milky_way: Optical Communication
+ - :globe_with_meridians: Fiber Optic Communication
+ - :milky_way: Network Engineer & Cybersecurity 
  - :ear_of_rice: Ai and IoT for Smart farm
  - :brain: Machine Learning
  - :eye: Computer Vision
