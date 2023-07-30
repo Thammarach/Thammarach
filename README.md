@@ -24,9 +24,6 @@ You can call me “Dan”. I am a 3rd year Electronic and Telecommunication Engi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thammarach&layout=compact&theme=nightowl&show_icons=true)]()
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thammarach&theme=nightowl&show_icons=true)
-
-
 ## 📊 Languages and Tools
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
