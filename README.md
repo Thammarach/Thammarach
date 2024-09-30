@@ -4,11 +4,11 @@ You can call me “Dan”. I am a 3rd year Electronic and Telecommunication Engi
 
 ⚡ What I'm interested in :
 
- - :milky_way: System Engineer & Cybersecurity 
- - :ear_of_rice: Ai and IoT for Smart farm
- - :brain: Machine Learning
- - :eye: Computer Vision
- - :desktop_computer: Chatbot
+ - :milky_way: System Engineer
+ - :ear_of_rice: DevOps Engineer
+ - :brain: Infrastructure
+ - :eye: Containerization
+ - :desktop_computer: Solution Architechure
 
 
 ## :e-mail: Connect with me
